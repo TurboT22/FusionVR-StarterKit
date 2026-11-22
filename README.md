@@ -1,6 +1,6 @@
 # FusionVR Starter Kit (Jungle)
 
-Production-style starter stations for [FusionVR](../FusionVR), all generated procedurally in the editor: lathed
+Production-style starter stations for [FusionVR](https://github.com/TurboT22/FusionVR), all generated procedurally in the editor: lathed
 pots and drums, bevelled planks, bark-wrapped trunks, bamboo with nodes, twisting vines and leaf blades. Textures
 (wood grain, bark, mossy stone, moss, leaf veins, bamboo) are generated as tileable noise with normal maps.
 No stock cubes and no imported art.
