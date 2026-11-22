@@ -1,0 +1,18 @@
+{
+  "name": "com.fusionvr.starterkit",
+  "displayName": "FusionVR Starter Kit (Jungle)",
+  "version": "1.0.0",
+  "unity": "2022.3",
+  "description": "Procedurally generated jungle-themed VR stations for FusionVR: room computer, public room totem, name station, colour paint pots, leaderboard, wardrobe and control panel. Meshes and textures are generated in the editor. Requires the FusionVR core package (installed either as a package or in Assets).",
+  "license": "MIT",
+  "keywords": [
+    "vr",
+    "fusionvr",
+    "jungle",
+    "procedural",
+    "starter"
+  ],
+  "dependencies": {
+    "com.unity.textmeshpro": "3.0.6"
+  }
+}
